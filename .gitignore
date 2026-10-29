@@ -4,8 +4,6 @@ out/
 storybook-static/
 build/
 coverage/
-.env
-.env.local
 *.tsbuildinfo
 next-env.d.ts
 public/embed/
@@ -13,3 +11,4 @@ public/embed/
 
 # Drawn by scripts/generate-og.mjs before every build.
 public/og/
+config.bat
